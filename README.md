@@ -1,19 +1,9 @@
-# lab1-1_calculator
-## lab1-1_calculator
-### lab1-1_calculator
-* lab1-1_calculator
-  + lab1-1_calculator
-    - lab1-1_calculator
-    
-> lab1-1_calculator
->> lab1-1_calculator
+# 오픈소스 repository
 
-   lab1-1_calculator
-  
+* 제안서
+  + 개별 제안서 : 반려동물CAM추적기능
 
-Github Desktop!
- 
 <hr/>
 
 _lab1-1_calculator_
-__lab1-1_calculator__
+__20223063김예린__
